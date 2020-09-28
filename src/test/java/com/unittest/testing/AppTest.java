@@ -172,11 +172,11 @@ public class AppTest
 		assertEquals(expected,actual);
 	}
 	
-	@Test
-	public void testResultTrueInputMinus1() {
-		double input = -1 ;
-		boolean expected = true ;
-		boolean actual = object.isBound(input);
-		assertEquals(expected,actual);
-	}
+//	@Test
+//	public void testResultTrueInputMinus1() {
+//		double input = -1 ;
+//		boolean expected = true ;
+//		boolean actual = object.isBound(input);
+//		assertEquals(expected,actual);
+//	}
 }
